@@ -1,0 +1,28 @@
+[
+    {
+        "name": "keerthana",
+        "username": "keer",
+        "password": "$2y$10$XFZVUNSt6wP8C2JUW6oAW.EyR9ex2kMfNTZArlO\/SY.Se9JkUVhRC",
+        "address": "kims",
+        "phone": "7975946851",
+        "email": "keerthanarkeerthu66@gmail.com",
+        "event_date": "2026-05-30",
+        "selected_event": "",
+        "selected_package": "",
+        "price": "",
+        "registered_at": "2026-05-13 20:58:33"
+    },
+    {
+        "name": "Kanchan.A. Jain",
+        "username": "kaju",
+        "password": "$2y$10$XbpaPkyRLlCnF3W1sHkhpOXYW2DzwLHeIYG262KXJIZOywSb5DThK",
+        "address": "kims",
+        "phone": "1234567890",
+        "email": "22kanchanjain@gmail.com",
+        "event_date": "2026-05-30",
+        "selected_event": "cocktail",
+        "selected_package": "Gold",
+        "price": "\u20b930,000",
+        "registered_at": "2026-05-14 17:45:11"
+    }
+]
